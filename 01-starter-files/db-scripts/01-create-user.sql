@@ -12,4 +12,4 @@ GRANT ALL PRIVILEGES ON * . * TO 'proudwolf'@'localhost';
 # See the MySQL Reference Manual for details: 
 # https://dev.mysql.com/doc/refman/8.0/en/caching-sha2-pluggable-authentication.html
 #
-ALTER USER 'proudwolf'@'localhost' IDENTIFIED WITH mysql_native_password BY 'proudwolf';
+ALTER USER 'proudwolf'@'localhost' IDENTIFIED WITH mysql_native_password BY '';
